@@ -1,0 +1,35 @@
+[   
+    
+     {
+         "symbol": "TCS",
+         "price":100, 
+         "shares":200, 
+         "side":"Buy",
+         "status":"Partial Filled"
+        },
+    {
+            "symbol": "Accenture",
+             "price":100, 
+             "shares":200, 
+             "side":"Buy",
+             "status":"Partial Filled"},
+    {
+                "symbol": "Apple",
+                 "price":100, 
+                 "shares":200, 
+                 "side":"Buy",
+                 "status":"Partial Filled"},
+    {
+                    "symbol": "Wipro",
+                     "price":100, 
+                     "shares":200, 
+                     "side":"Buy",
+                     "status":"Partial Filled"},
+    {
+                        "symbol": "Yes Bank",
+                         "price":100, 
+                         "shares":200, 
+                         "side":"Buy",
+                         "status":"Partial Filled"
+    }
+]
