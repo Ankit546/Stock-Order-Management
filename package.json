@@ -11,7 +11,7 @@
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
     "@types/redux": "^3.6.0",
-    "ag-grid-community": "^22.1.1",
+    "ag-grid-community": "^32.0.1",
     "ag-grid-react": "^22.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
